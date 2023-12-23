@@ -3,7 +3,7 @@ Hi there! I'm a passionate software engineer with a knack for solving problems f
 I thrive on working vertically across the software stack, seamlessly weaving between frontend and backend development to create robust and elegant solutions.
 As a seasoned software architect, I bring over two decades of hands-on experience to the table. 
 
-Outside of the digital realm, I proudly wear the hat of a dad and like to take care about my bees as a devoted beekeeper. Adding a touch of nostalgia, I breathe 
+Outside of the digital realm, I proudly wear the hat of a dad and like to take care of my bees as a devoted beekeeper. Adding a touch of nostalgia, I breathe 
 life into old machines, reveling in the simplicity and charm of retro computing. 🚀
 
 ---
