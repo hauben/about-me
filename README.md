@@ -94,6 +94,16 @@ life into old machines, reveling in the simplicity and charm of retro computing.
    - This article explains how to use Route 53 to transfer an existing domain to AWS and setting up a secure static website on S3 which finally will be …   
 ---
 
+# Patents
+1. [METHOD AND DEVICE FOR DETECTING DAZZLING OF THE DRIVER OF A VEHICLE](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=WO002013127674A3&xxxfull=1)
+2. [COMMUNICATION SYSTEM OF A MOTOR VEHICLE](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=WO002013053678A1&xxxfull=1)
+3. [Information system for transmitting messages between traffic participants](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=EP000002482266A1&xxxfull=1)
+4. [COMPUTERIMPLEMENTIERTES VERFAHREN UND SYSTEM ZUM BEWERTEN DER RELEVANZ EINER V2X-NACHRICHT](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=DE102020215739B4&xxxfull=1)
+5. [Verfahren zur Auswahl und Aufbereitung von Verkehrsinformationen](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=DE102012212815B4&xxxfull=1)
+6. [Method for selecting and preparing traffic information for driver of motor vehicle](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=DE102019207109A1&xxxfull=1)
+
+---
+
 # Hobbies
 🐝💾⌨️📷🐠🏕️🍅📖
 
