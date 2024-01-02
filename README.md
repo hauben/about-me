@@ -110,6 +110,18 @@ life into old machines, reveling in the simplicity and charm of retro computing.
 
 ---
 
+# Publications
+| haubenschild.de | Chip Foto Video | Foto Praxis | d-pixx | iX |
+| ------- | ------- | ------- | ------- | ------- |
+| <img src="publications_cover_photos/Siegen_Auflage.jpg" width="115" height="165"> | <img src="publications_cover_photos/big__titel_12_2012_dvd-1_1.jpg" width="115" height="165"> | <img src="publications_cover_photos/cover330.php_.jpg" width="115" height="165"> | <img src="publications_cover_photos/dp_1004_titel_300px.jpg" width="115" height="165"> | <img src="publications_cover_photos/ix.jpg" width="115" height="165"> |
+
+| Landlust| Linux Magazin | Tours | 
+| ------- | ------- | ------- | 
+| <img src="publications_cover_photos/landlust-cover-535x770.jpg" width="115" height="165"> | <img src="publications_cover_photos/linux-magazin.png" width="115" height="165"> | <img src="publications_cover_photos/titel0308.jpg" width="115" height="165"> | 
+<br />
+
+---
+
 # Hobbies
 🐝💾⌨️📷🐠🏕️🍅📖
 
