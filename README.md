@@ -62,6 +62,17 @@ life into old machines, reveling in the simplicity and charm of retro computing.
 <img align="left" alt="AndroidStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
 <br />
+<br />
+
+---
+# Book I wrote ...
+<a href="https://www.amazon.de/dp/B0DS9VKDPZ"><img style="border: 1px solid white" src="publications_cover_photos/vuejs-cover.jpg" height="250"></a><br/>
+<a href="https://www.amazon.de/dp/B0DS9VKDPZ">Click here to buy it on Amazon.de</a><br/><br/>
+ISBN: 979-8336161106<br/>
+Price: EUR 32,00<br/>
+Release: January 2025<br/>
+Webpage: https://vuejs.haubenschild.de<br/>
+<br />
 
 ---
 
@@ -111,9 +122,9 @@ life into old machines, reveling in the simplicity and charm of retro computing.
 ---
 
 # Publications
-| haubenschild.de | Chip Foto Video | Foto Praxis | d-pixx | iX |
-| ------- | ------- | ------- | ------- | ------- |
-| <img src="publications_cover_photos/Siegen_Auflage.jpg" width="115" height="165"> | <img src="publications_cover_photos/big__titel_12_2012_dvd-1_1.jpg" width="115" height="165"> | <img src="publications_cover_photos/cover330.php_.jpg" width="115" height="165"> | <img src="publications_cover_photos/dp_1004_titel_300px.jpg" width="115" height="165"> | <img src="publications_cover_photos/ix.jpg" width="115" height="165"> |
+| Amazon.de | haubenschild.de | Chip Foto Video | Foto Praxis | d-pixx | iX |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| <a href="https://www.amazon.de/dp/B0DS9VKDPZ"><img src="publications_cover_photos/vuejs-cover.jpg" width="115" height="165"></a>| <img src="publications_cover_photos/Siegen_Auflage.jpg" width="115" height="165"> | <img src="publications_cover_photos/big__titel_12_2012_dvd-1_1.jpg" width="115" height="165"> | <img src="publications_cover_photos/cover330.php_.jpg" width="115" height="165"> | <img src="publications_cover_photos/dp_1004_titel_300px.jpg" width="115" height="165"> | <img src="publications_cover_photos/ix.jpg" width="115" height="165"> |
 
 | Landlust| Linux Magazin | Tours | 
 | ------- | ------- | ------- | 
