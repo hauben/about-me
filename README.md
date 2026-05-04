@@ -65,6 +65,12 @@ life into old machines, reveling in the simplicity and charm of retro computing.
 <br />
 
 ---
+# Little Game I did
+<a href="https://atomic-puzzle.haubenschild.de"><img style="border: 1px solid white" src="publications_cover_photos/app-title.jpg" height="400"></a><br/>
+
+<br />
+---
+
 # Book I wrote ...
 <a href="https://www.amazon.de/dp/B0DS9VKDPZ"><img style="border: 1px solid white" src="publications_cover_photos/vuejs-cover.jpg" height="250"></a><br/>
 <a href="https://www.amazon.de/dp/B0DS9VKDPZ">Click here to buy it on Amazon.de</a><br/><br/>
@@ -73,8 +79,6 @@ Price: EUR 32,00<br/>
 Release: January 2025<br/>
 Webpage: https://vuejs.haubenschild.de<br/>
 <br />
-
----
 
 # Articles I wrote ...
 1. [Unleash The Power Of MacOS In The Cloud! Dive Into A Step-by-Step Guide For Setting Up An EC2 Mac Instance](https://medium.com/@haubenschild/unleash-the-power-of-macos-in-the-cloud-a-step-by-step-guide-for-setting-up-an-ec2-mac-instance-55d74d688685)<br />
