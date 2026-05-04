@@ -66,7 +66,7 @@ life into old machines, reveling in the simplicity and charm of retro computing.
 
 ---
 # Little Game I did
-<a href="https://atomic-puzzle.haubenschild.de"><img style="border: 1px solid white" src="publications_cover_photos/app-title.jpg" height="400"></a><br/>
+<a href="https://atomic-puzzle.haubenschild.de"><img style="border: 1px solid white" src="publications_cover_photos/app-title.jpg" height="300"></a><br/>
 
 # Book I wrote ...
 <a href="https://www.amazon.de/dp/B0DS9VKDPZ"><img style="border: 1px solid white" src="publications_cover_photos/vuejs-cover.jpg" height="250"></a><br/>
